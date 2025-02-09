@@ -1,0 +1,93 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+!/[Aa]ssets/**/*.meta
+/[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Plugins/Editor/JetBrains*
+.vs/
+.gradle/
+
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+sysinfo.txt
+
+*.apk
+*.unitypackage
+
+crashlytics-build.properties
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Icon
+
+._*
+
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows thumbnail cache files
+Thumbs . db
+Thumbs . db :encryptable
+ehthumbs . db
+ehthumbs_ vista. db
+# Dump file
+* . stackdump
+# Folder config file
+[Dd]esktop. ini
+# Recycle Bin used on file shares
+$RECYCLE. BIN/
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+* .msm
+* .msp
+# Windows shortcuts
+*.1nk
+# Peek
+Assets/Ludiq/Ludiq. PeekCore
+Assets/Ludiq/Ludiq. Peek
+Assets/Ludiq. Generated/Transient
+#Odin
+Assets/Plugins/Sirenix/Assemblies/A0T/*
+Assets/Plugins/Sirenix/Demos/*
+!/Assets/P1ugins/Sirenix/Demos/* . unitypackage
+#Gaia
+Assets/Procedural *Worlds/Gaia/Asset*Samples/*
+Assets/Samples/Terrain*Tools/*
